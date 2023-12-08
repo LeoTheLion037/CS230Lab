@@ -12,6 +12,7 @@ function nav() {
         <Nav> 
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/Cards">Cards</Nav.Link>
+            <Nav.Link href="/Contact">Contact</Nav.Link>
         </Nav>
       </Container>
     </Navbar>
