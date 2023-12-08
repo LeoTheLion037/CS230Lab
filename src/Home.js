@@ -9,7 +9,6 @@ return (
         <h2>Section 003</h2>
         <p>800401981</p>
         <p>Hi I am Leo</p>
-
     </div>
 );
 }
